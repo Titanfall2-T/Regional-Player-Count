@@ -18,3 +18,10 @@ Mod created for Titanfall 2 to show player-count based on region and optionally 
 
     `region_total` | Total player count for current region
     ![RPC Region Total Example](/RPC_region_total_example.png)
+
+    `region_playlist` | Total player count for current playlist
+    ![RPC Region Total Example](/RPC_region_playlist_example_1.png)
+  
+    `global` | Global player count
+    ![RPC Region Total Example](/RPC_global_example.png)
+
