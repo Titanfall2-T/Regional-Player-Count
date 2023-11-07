@@ -1,0 +1,14 @@
+{
+    "Name": "Regional Player Count",
+    "Description": "Configurable mod that makes the player count displayed able to be adjusted and measured by region!\n\nMade by you ;)",
+    "Version": "1.0.0",
+
+    "LoadPriority": "0",
+
+    "ConVars": [
+        {
+            "Name": "rpc_mode",
+            "DefaultValue": "region_total"
+        }
+    ]
+}
