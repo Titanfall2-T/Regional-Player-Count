@@ -17,4 +17,4 @@ Mod created for Titanfall 2 to show player-count based on region and optionally 
 - `rpc_mode` - This ConVar is the mode for how to display the player count. Here are all the current modes available and what they do : 
 
     `region_total` | Total player count for current region
-    ![RPC Region Total Example](RPC_region_total_example.png)
+    ![RPC Region Total Example](/RPC_region_total_example.png)
